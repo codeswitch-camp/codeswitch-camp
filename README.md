@@ -37,7 +37,7 @@ The Live Training is the main part of the course, led by your Lead Instructor. E
 
 ## Front-end tools that you will master:
 
-<h3 align="left">Frontend languages</h3>
+<h3 align="left">Frontend languages and tools </h3>
 
   <div>
 	<img
@@ -78,22 +78,6 @@ The Live Training is the main part of the course, led by your Lead Instructor. E
 	/>
 </div>
     
-<h3 align="left">Frontend tools</h3>
-
-<div>
-	<img
-		src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-		alt="git"
-		height="70"
-		width="100"
-	/>
-	<img
-		src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
-		alt="visual studio code"
-		height="70"
-		width="100"
-	/>
-</div>
 
 <br />
 
