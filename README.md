@@ -64,6 +64,18 @@ The Live Training is the main part of the course, led by your Lead Instructor. E
 		height="70"
 		width="100"
 	/>
+	<img
+		src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+		alt="git"
+		height="70"
+		width="100"
+	/>
+	<img
+		src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
+		alt="visual studio code"
+		height="70"
+		width="100"
+	/>
 </div>
     
 <h3 align="left">Frontend tools</h3>
