@@ -3,7 +3,7 @@
 <!--
 **codeswitch-camp/codeswitch-camp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![](https://images.pexels.com/photos/6330644/pexels-photo-6330644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+![](https://images.hdqwalls.com/wallpapers/get-back-to-code-km.jpg)
 <h1 align="center">Codeswitch</h1>
 
 <h3 align="center">Building the black tech class</h3>
@@ -30,7 +30,6 @@ Through immersive coding courses, codeswitch teaches you the skills and entrepre
 
 ## Languages and Tools used in our courses:
 
-      
 ### Frontend languages
 
   <div align="left">
