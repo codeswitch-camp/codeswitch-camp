@@ -37,8 +37,6 @@ The Live Training is the main part of the course, led by your Lead Instructor. E
 
 ## Front-end tools that you will master:
 
-<h3 align="left">Frontend languages and tools </h3>
-
   <div>
 	<img
 		src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
