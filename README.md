@@ -3,7 +3,7 @@
 <!--
 **codeswitch-camp/codeswitch-camp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![](https://images.hdqwalls.com/wallpapers/get-back-to-code-km.jpg)
+![](https://blog.newrelic.com/wp-content/uploads/good-programmer-banner-final.jpg)
 <h1 align="center">Codeswitch</h1>
 
 <h3 align="center">Building the black tech class</h3>
