@@ -33,7 +33,7 @@ Through immersive coding courses, codeswitch teaches you the skills and entrepre
       
 ### Frontend languages
 
-  <div align="center">
+  <div align="left">
     <img
       src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
       alt="HTML5"
@@ -58,7 +58,7 @@ Through immersive coding courses, codeswitch teaches you the skills and entrepre
     
 ### Frontend tools
 
-  <div align="center">
+  <div align="left">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
@@ -88,7 +88,24 @@ Through immersive coding courses, codeswitch teaches you the skills and entrepre
 
 <br />
 
-## contact us:
+## Contact us:
+
+ <div align="left">
+	<a href="https://getbootstrap.com" target="_blank">
+	    <img
+	      src="https://cdn.mos.cms.futurecdn.net/SDDw7CnuoUGax6x9mTo7dd.jpg"
+	      alt="slack"
+	      height="70"
+	    />
+	</a>
+	<a href="https://getbootstrap.com" target="_blank">
+	    <img
+	      src="https://protonmail.com/images/stripeLogo.png"
+	      alt="slack"
+	      height="70"
+	    />
+	</a>
+  </div>
 
 
 <!--
