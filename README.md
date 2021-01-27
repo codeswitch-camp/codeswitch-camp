@@ -6,7 +6,7 @@
 ![](https://blog.newrelic.com/wp-content/uploads/good-programmer-banner-final.jpg)
 <h1 align="center">Codeswitch</h1>
 
-<h3 align="center">Building the black tech class</h3>
+<h3 align="center">Working hard to close the black tech gap</h3>
 
 <p align="left">
 	<img
