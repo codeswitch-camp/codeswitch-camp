@@ -33,57 +33,54 @@ Through immersive coding courses, codeswitch teaches you the skills and entrepre
 ### Frontend languages
 
   <div align="left">
-    <img
-      src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
-      alt="HTML5"
-      height="70"
-    />
-    <img
-      src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
-      alt="CSS3"
-      height="70"
-    />
-    <img
-      src="https://profilinator.rishav.dev/skills-assets/sass-original.svg"
-      alt="Sass"
-      height="70"
-    />
-    <img
-      src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
-      alt="JavaScript"
-      height="70"
-    />
-  </div>
+	<img
+		src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
+		alt="HTML5"
+		height="70"
+		width="100"
+	/>
+	<img
+		src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
+		alt="CSS3"
+		height="70"
+		width="100"
+	/>
+	<img
+		src="https://profilinator.rishav.dev/skills-assets/sass-original.svg"
+		alt="Sass"
+		height="70"
+		width="100"
+	/>
+	<img
+		src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
+		alt="JavaScript"
+		height="70"
+		width="100"
+	/>
+</div>
     
 ### Frontend tools
 
-  <div align="left">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      height="70"
-    />
-    <img
-      src="https://www.invispace.com/wp-content/uploads/2019/10/github.gif"
-      alt="github"
-      height="70"
-    />
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
-      alt="visual studio code"
-      height="70"
-    />
-    <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
-      height="70"
-    />
-    <img
-      src="https://pbs.twimg.com/profile_images/1021778918842531840/FBVP_uDf_400x400.jpg"
-      alt="netlify"
-      height="70"
-    />
-  </div>
+<div align="left">
+	<img
+		src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+		alt="git"
+		height="70"
+		width="100"
+	/>
+	<img
+		src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
+		alt="visual studio code"
+		height="70"
+		width="100"
+	/>
+	<img
+		src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+		alt="heroku"
+		height="70"
+		width="100"
+	/>
+</div>
 
 <br />
 
