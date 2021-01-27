@@ -69,12 +69,6 @@ Through immersive coding courses, codeswitch teaches you the skills and entrepre
 		width="100"
 	/>
 	<img
-		src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-		alt="heroku"
-		height="70"
-		width="100"
-	/>
-	<img
 		src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
 		alt="visual studio code"
 		height="70"
