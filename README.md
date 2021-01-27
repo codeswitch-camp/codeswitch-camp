@@ -15,11 +15,11 @@
 	/>
 </p>
 
-## Change your life
+## Reach your potential
 
 You might have been working in the same industry or job for a few years, and feel a little unsatisfied. If you are looking for more technical autonomy, freedom and drive, coding is definitely a tool that will help you get there - either to launch your own company, become a full-time or freelance developer, or develop technical projects in your current job.
 
-## Web development basic to intermediate
+## Train with us
 
 Through immersive coding courses, codeswitch teaches you the skills and entrepreneurial mindset you need to thrive - now and in the future.
 - **No coding** experience required
@@ -28,11 +28,18 @@ Through immersive coding courses, codeswitch teaches you the skills and entrepre
 - **Weekly live coding sessions** and instuctional lessons
 - Access to exclusive **slack community**
 
-## Languages and Tools used in our courses:
+## Front-end developer course details:
 
-### Frontend languages
+**Live training**
+4 to 6 weeks of in-class instruction:
 
-  <div align="left">
+The Live Training is the main part of the course, led by your Lead Instructor. Each concept is taught live and then immediately followed by exercises that allow you to truly grasp what you’ve just learned. You'll also work on an individual Capstone Project, which is demonstrated at your cohort's Graduate Showcase.
+
+## Front-end tools that you will master:
+
+<h3 align="left">Frontend languages</h3>
+
+  <div>
 	<img
 		src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
 		alt="HTML5"
@@ -59,9 +66,9 @@ Through immersive coding courses, codeswitch teaches you the skills and entrepre
 	/>
 </div>
     
-### Frontend tools
+<h3 align="left">Frontend tools</h3>
 
-<div align="left">
+<div>
 	<img
 		src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
 		alt="git"
