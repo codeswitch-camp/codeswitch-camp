@@ -2,8 +2,11 @@
 
 <!--
 **codeswitch-camp/codeswitch-camp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+another head picture below
+https://blog.newrelic.com/wp-content/uploads/good-programmer-banner-final.jpg. 
 -->
-![](https://blog.newrelic.com/wp-content/uploads/good-programmer-banner-final.jpg)
+![](https://i.kym-cdn.com/photos/images/facebook/001/477/449/04a.jpeg)
+
 <h1 align="center">Codeswitch</h1>
 
 <h3 align="center">Working hard to close the black tech gap</h3>
